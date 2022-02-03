@@ -1,0 +1,20 @@
+@import "colors";
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 5rem;
+  display: grid;
+  place-content: center;
+}
+
+h1 {
+  font-size: 5rem;
+  color: yellow;
+  font-style: italic;
+}
+
+p {
+  font-weight: bold;
+}
